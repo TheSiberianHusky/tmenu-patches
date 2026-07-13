@@ -1,5 +1,5 @@
 # tmenu-patches
-My personal custom patches for tinyopsec's [tmenu](github.com/tinyopsec/tmenu).  
+My personal custom patches for tinyopsec's [tmenu](https://github.com/tinyopsec/tmenu).  
 
 List of patches:
 - Border: Adds a border around tmenu. (from https://tools.suckless.org/dmenu/patches/border/)
