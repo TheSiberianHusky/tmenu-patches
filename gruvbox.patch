@@ -1,0 +1,18 @@
+diff --git a/tmenu.c b/tmenu.c
+index 26fba31..a799e61 100644
+--- a/tmenu.c
++++ b/tmenu.c
+@@ -1,9 +1,9 @@
+ #define _POSIX_C_SOURCE 200809L
+ #define FONT     "-*-fixed-medium-r-*-*-13-*-*-*-*-*-*-*"
+-#define FGNORM   "#bbbbbb"
+-#define BGNORM   "#222222"
+-#define FGSEL    "#eeeeee"
+-#define BGSEL    "#005577"
++#define FGNORM   "#ebdbb2"
++#define BGNORM   "#282828"
++#define FGSEL    "#ebdbb2"
++#define BGSEL    "#98971a"
+ #define TOP      1
+ #define LINES    0
+ #define PROMPT   NULL
