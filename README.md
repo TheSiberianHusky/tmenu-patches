@@ -11,7 +11,7 @@ List of patches:
 
 Instructions: 
 ```
-git clone https://github.com/tinyopsec/tmenu.git`
+git clone https://github.com/tinyopsec/tmenu.git
 git apply --check PATCH.patch
 make
 sudo make install
